@@ -1,0 +1,1 @@
+During the training, this example does not use the test set from MNIST dataset to verify the ideal error rate.

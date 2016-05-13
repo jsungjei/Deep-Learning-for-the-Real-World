@@ -1,0 +1,2 @@
+I am foo.txt file
+I have two lines

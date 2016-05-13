@@ -1,0 +1,21 @@
+sigmoid
+
+
+epoch 50, minibatch 2500/2500, validation error 43.620000 %
+The code for file problem_16.py ran for 0.24m
+     epoch 50, minibatch 2500/2500, test error of best model 44.420000 %
+Optimization complete. Best validation score of 43.620000 % obtained at iteration 125000, with test performance 44.420000 %
+
+
+relu
+
+epoch 50, minibatch 2500/2500, validation error 31.220000 %
+     epoch 50, minibatch 2500/2500, test error of best model 31.900000 %
+Optimization complete. Best validation score of 31.220000 % obtained at iteration 125000, with test performance 31.900000 %
+The code for file problem_16.py ran for 0.23m
+
+tanh
+epoch 50, minibatch 2500/2500, validation error 36.320000 %
+     epoch 50, minibatch 2500/2500, test error of best model 37.020000 %
+Optimization complete. Best validation score of 36.320000 % obtained at iteration 125000, with test performance 37.020000 %
+The code for file problem_16.py ran for 0.23m
